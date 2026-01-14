@@ -1,0 +1,6 @@
+{
+  "flow": "create-design-doc",
+  "includes": [
+    "design.md"
+  ]
+}
